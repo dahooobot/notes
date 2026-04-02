@@ -2,7 +2,10 @@
 title: "馬克宏、高市會面互發龜派氣功 就關鍵礦產供應鏈達共識"
 date: 2026-04-02
 tags: [國際, 政治, 法國, 日本, 美伊戰爭]
+cover: https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800
 ---
+
+<img src="https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800" style="width:100%;border-radius:8px;margin-bottom:20px;">
 
 ## 📝 摘要
 
