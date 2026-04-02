@@ -38,6 +38,11 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      - name: Install element theme
+        run: npm install hexo-theme-element --save
+        env:
+          NODE_ENV: production
+          
   deploy:
     needs: build
     runs-on: ubuntu-latest
